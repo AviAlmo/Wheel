@@ -14,8 +14,8 @@ Link - https://www.npmjs.com/package/react-custom-roulette.
 Details
 The main functions in the code: 
 
-useEffect() – In the  createUser page, the useEffect function sending a request to the server to bring all the users that exist in the DB. 
-newPrize() – This function have a responsibility for the wheel functionality.
-according to the function, the wheel contains prizes and it stops on a random prize and updates the player information.
-updateNewData() – This function updates the new information about the user such as spin history or wallet balance.
-WithdrawDeposit() – This function creates a deposit request and updates the new information in the DB by using the updateNewData(). 
+useEffect() – In the  createUser page, the useEffect function sending a request to the server to bring all the users that exist in the DB.   
+newPrize() – This function have a responsibility for the wheel functionality.  
+according to the function, the wheel contains prizes and it stops on a random prize and updates the player information.  
+updateNewData() – This function updates the new information about the user such as spin history or wallet balance.  
+WithdrawDeposit() – This function creates a deposit request and updates the new information in the DB by using the updateNewData().   
