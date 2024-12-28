@@ -7,7 +7,8 @@ The winnings are being saved to user's wallet and he can withdraw them in any ti
 First the user needs to select a player to start the game and if he has credit in the wallet he can deposit directly to his account. 
 The game created using the next technologies  – MongoDB , Express, React ,   NodeJS .
 
-The wheel created by npm package - React Custom Roulette. 
+The wheel created by npm package - React Custom Roulette.   
+
 Link - https://www.npmjs.com/package/react-custom-roulette.   
 
 Details
