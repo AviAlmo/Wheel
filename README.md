@@ -1,11 +1,11 @@
 # Wheel 
 
 General   
-The task is about a wheel game. The user can spin the wheel to win prizes.
+The user can spin the wheel to win prizes.
 The winnings are being saved to user's wallet and he can withdraw them in any time. 
 
 First the user needs to select a player to start the game and if he has credit in the wallet he can deposit directly to his account. 
-The game created using the next technologies  – MongoDB , Express, React ,   NodeJS .
+The game created using the next technologies  – MongoDB , Express, React , NodeJS .
 
 The wheel created by npm package - React Custom Roulette.   
 
